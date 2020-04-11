@@ -5,6 +5,10 @@ CS Coding Week 2 Project
 Team members: CHEN Yizhou, MAO Shuai, ZHANG Weixu, ZHANG Ke
 
 This project is to realize a function of facial recognition.
+The realized functions:
+1. GUI window based on Tkinter
+2. Face detection and recognition based on module dlib
+3. Add some funny decoration
 
 **Requirements:**
 

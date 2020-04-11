@@ -1,0 +1,8 @@
+python version: 3.6.9
+tensorflow version: 2.0.0
+opencv version: 4.1.1
+dlib version: 19.7.0
+PIL version: 6.2.1
+numpy version :1.17.4
+keras_vggface version: 0.6
+matplotlib version: 3.1.1
